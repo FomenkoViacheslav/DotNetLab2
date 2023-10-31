@@ -1,0 +1,14 @@
+C:\Users\mrmag\OneDrive\Рабочий стол\.net\lab2\DotNetLab2\bin\Debug\net7.0\DotNetLab2.exe
+C:\Users\mrmag\OneDrive\Рабочий стол\.net\lab2\DotNetLab2\bin\Debug\net7.0\DotNetLab2.deps.json
+C:\Users\mrmag\OneDrive\Рабочий стол\.net\lab2\DotNetLab2\bin\Debug\net7.0\DotNetLab2.runtimeconfig.json
+C:\Users\mrmag\OneDrive\Рабочий стол\.net\lab2\DotNetLab2\bin\Debug\net7.0\DotNetLab2.dll
+C:\Users\mrmag\OneDrive\Рабочий стол\.net\lab2\DotNetLab2\bin\Debug\net7.0\DotNetLab2.pdb
+C:\Users\mrmag\OneDrive\Рабочий стол\.net\lab2\DotNetLab2\obj\Debug\net7.0\DotNetLab2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mrmag\OneDrive\Рабочий стол\.net\lab2\DotNetLab2\obj\Debug\net7.0\DotNetLab2.AssemblyInfoInputs.cache
+C:\Users\mrmag\OneDrive\Рабочий стол\.net\lab2\DotNetLab2\obj\Debug\net7.0\DotNetLab2.AssemblyInfo.cs
+C:\Users\mrmag\OneDrive\Рабочий стол\.net\lab2\DotNetLab2\obj\Debug\net7.0\DotNetLab2.csproj.CoreCompileInputs.cache
+C:\Users\mrmag\OneDrive\Рабочий стол\.net\lab2\DotNetLab2\obj\Debug\net7.0\DotNetLab2.dll
+C:\Users\mrmag\OneDrive\Рабочий стол\.net\lab2\DotNetLab2\obj\Debug\net7.0\refint\DotNetLab2.dll
+C:\Users\mrmag\OneDrive\Рабочий стол\.net\lab2\DotNetLab2\obj\Debug\net7.0\DotNetLab2.pdb
+C:\Users\mrmag\OneDrive\Рабочий стол\.net\lab2\DotNetLab2\obj\Debug\net7.0\DotNetLab2.genruntimeconfig.cache
+C:\Users\mrmag\OneDrive\Рабочий стол\.net\lab2\DotNetLab2\obj\Debug\net7.0\ref\DotNetLab2.dll
